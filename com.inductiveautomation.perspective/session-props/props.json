@@ -50,5 +50,11 @@
       "persistent": false
     }
   },
-  "props": {}
+  "props": {
+    "address": "127.0.0.1",
+    "device": {},
+    "geolocation": {},
+    "locale": "en-US",
+    "timeZoneId": "America/Los_Angeles"
+  }
 }
