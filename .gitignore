@@ -1,2 +1,5 @@
 # Ignition Vision Content
-com.inductiveautomation.vision 
+com.inductiveautomation.vision
+
+# MacOS DS_Store
+.DS_Store
