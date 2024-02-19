@@ -1,0 +1,16 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "style": {
+        "backgroundColor": "#CF3636"
+      }
+    },
+    "type": "ia.container.coord"
+  }
+}
