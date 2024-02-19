@@ -1,0 +1,65 @@
+{
+  "scope": "DG",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "query.sql"
+  ],
+  "attributes": {
+    "useMaxReturnSize": false,
+    "autoBatchEnabled": false,
+    "fallbackValue": "",
+    "maxReturnSize": 100,
+    "cacheUnit": "SEC",
+    "type": "UpdateQuery",
+    "enabled": true,
+    "cacheAmount": 1,
+    "cacheEnabled": false,
+    "database": "",
+    "fallbackEnabled": false,
+    "lastModificationSignature": "7caa06d4610d840e5444954f1e1c22ee7d7168453defeb776e13273dcf6463ee",
+    "permissions": [
+      {
+        "zone": "",
+        "role": ""
+      }
+    ],
+    "lastModification": {
+      "actor": "trevorsp23@gmail.com",
+      "timestamp": "2023-04-12T20:01:47Z"
+    },
+    "parameters": [
+      {
+        "type": "Parameter",
+        "identifier": "tankNo",
+        "sqlType": 2
+      },
+      {
+        "type": "Parameter",
+        "identifier": "tankName",
+        "sqlType": 7
+      },
+      {
+        "type": "Parameter",
+        "identifier": "tankType",
+        "sqlType": 7
+      },
+      {
+        "type": "Parameter",
+        "identifier": "tankVol",
+        "sqlType": 2
+      },
+      {
+        "type": "Parameter",
+        "identifier": "tankInUse",
+        "sqlType": 6
+      },
+      {
+        "type": "Parameter",
+        "identifier": "tankMaxVol",
+        "sqlType": 2
+      }
+    ]
+  }
+}
